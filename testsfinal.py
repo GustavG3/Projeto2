@@ -3,7 +3,7 @@ from tkinter import ttk, messagebox, scrolledtext
 from openai import OpenAI
 from PIL import Image, ImageTk  # Para manipulação da imagem
 
-#client = OpenAI(api_key="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")
+client = OpenAI(api_key="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")
 def obter_resumo(titulo_livro):
     prompt = f"""
     Você é um especialista literário. Gere um resumo detalhado e envolvente do livro chamado: "{titulo_livro}".
