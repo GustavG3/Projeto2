@@ -65,10 +65,12 @@ python -m venv venv
 source venv/bin/activate  # ou venv\Scripts\activate no Windows
 ```
 
-3. Instale as dependências:
+3. Instale as dependências: 
 
 ```
 pip install -r requirements.txt
+pip install openai
+pip install pillow
 ```
 
 4. Execute a aplicação:
