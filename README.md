@@ -74,7 +74,7 @@ pip install -r requirements.txt
 4. Execute a aplicação:
 
 ```
-python main.py
+python testsfinal.py
 ```
 
 ---
@@ -94,7 +94,7 @@ Inclua aqui prints, gifs ou vídeos mostrando a interface ou o funcionamento do 
 | Nome | GitHub |
 |------|--------|
 | Gustavo Gomes Guimarães | [@GustavG3](https://github.com/GustavG3/Projeto2) |
-| Paulo | [@Paulo](https://github.com/exemplo) |
+| Paulo Resende Tironi Ferreira | [@Paulo](https://github.com/exemplo) |
 
 ---
 
